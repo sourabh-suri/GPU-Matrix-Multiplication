@@ -1,0 +1,211 @@
+ For Block Dimension = 16
+Matrix 1 is 
+0.840188 0.783099 0.911647 0.335223 0.277775 
+0.477397 0.364784 0.952230 0.635712 0.141603 
+0.016301 0.137232 0.156679 0.129790 0.998924 
+0.512932 0.612640 0.637552 0.493583 0.292517 
+0.526745 0.400229 0.283315 0.807725 0.069755 
+Matrix 2 is 
+0.394383 0.798440 0.197551 0.768230 0.553970 
+0.628871 0.513401 0.916195 0.717297 0.606969 
+0.242887 0.804177 0.400944 0.108809 0.218257 
+0.839112 0.296032 0.524287 0.972775 0.771358 
+0.769914 0.891529 0.352458 0.919026 0.949327 
+Done, Matrix Result is
+1.540403 2.152890 1.522629 1.887746 1.662005 
+1.291419 1.648648 1.193520 1.480561 1.318496 
+1.008779 1.138460 0.611897 1.172301 1.174942 
+1.381800 1.643684 1.280130 1.651842 1.453576 
+1.259722 1.155188 1.032406 1.572412 1.285828 
+GPU Mat MUl Total runtime for N=5: 0:00:00:0.7210
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5405
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5434
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5301
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.4928
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5947
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5040
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5458
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5458
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.4178
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.4881
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.6196
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.5066
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.4992
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.5162
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.5718
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.6219
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.6016
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.6171
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.6251
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.5723
+GPU Mat MUl Total runtime for N=2000: 0:00:00:1.7993
+GPU Mat MUl Total runtime for N=2000: 0:00:00:1.7378
+GPU Mat MUl Total runtime for N=2000: 0:00:00:1.8365
+GPU Mat MUl Total runtime for N=2000: 0:00:00:1.8718
+GPU Mat MUl Total runtime for N=2000: 0:00:00:1.7528
+GPU Mat MUl Total runtime for N=5000: 0:00:00:3.6453
+GPU Mat MUl Total runtime for N=5000: 0:00:00:3.7221
+GPU Mat MUl Total runtime for N=5000: 0:00:00:3.6352
+GPU Mat MUl Total runtime for N=5000: 0:00:00:3.5811
+GPU Mat MUl Total runtime for N=5000: 0:00:00:3.6865
+GPU Mat MUl Total runtime for N=10000: 0:00:00:15.4709
+GPU Mat MUl Total runtime for N=10000: 0:00:00:15.4420
+GPU Mat MUl Total runtime for N=10000: 0:00:00:15.5254
+GPU Mat MUl Total runtime for N=10000: 0:00:00:15.4186
+GPU Mat MUl Total runtime for N=10000: 0:00:00:15.4629
+
+
+ For Block Dimension = 8
+ GPU Mat MUl Total runtime for N=5: 0:00:00:0.7770
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5807
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5337
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5006
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5486
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5359
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5708
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.4942
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5202
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5041
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5294
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.5274
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.6614
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.5240
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.5450
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.6229
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.6403
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.6207
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.6529
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.6283
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.6449
+GPU Mat MUl Total runtime for N=2000: 0:00:00:1.9265
+GPU Mat MUl Total runtime for N=2000: 0:00:00:1.9415
+GPU Mat MUl Total runtime for N=2000: 0:00:00:1.9314
+GPU Mat MUl Total runtime for N=2000: 0:00:00:1.9257
+GPU Mat MUl Total runtime for N=2000: 0:00:00:1.8457
+GPU Mat MUl Total runtime for N=5000: 0:00:00:3.8924
+GPU Mat MUl Total runtime for N=5000: 0:00:00:3.8902
+GPU Mat MUl Total runtime for N=5000: 0:00:00:3.8902
+GPU Mat MUl Total runtime for N=5000: 0:00:00:3.9172
+GPU Mat MUl Total runtime for N=5000: 0:00:00:3.9199
+GPU Mat MUl Total runtime for N=10000: 0:00:00:17.4454
+GPU Mat MUl Total runtime for N=10000: 0:00:00:17.3965
+GPU Mat MUl Total runtime for N=10000: 0:00:00:17.4371
+GPU Mat MUl Total runtime for N=10000: 0:00:00:17.4207
+GPU Mat MUl Total runtime for N=10000: 0:00:00:17.4569
+
+ For Block Dimension = 4
+ GPU Mat MUl Total runtime for N=5: 0:00:00:0.7505
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.6459
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.4978
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5239
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.4961
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5803
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5086
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5922
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.4908
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5386
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5215
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.5706
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.5660
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.4605
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.5451
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.5755
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.6495
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.7134
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.6599
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.6627
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.6886
+GPU Mat MUl Total runtime for N=2000: 0:00:00:2.0105
+GPU Mat MUl Total runtime for N=2000: 0:00:00:2.1536
+GPU Mat MUl Total runtime for N=2000: 0:00:00:1.9901
+GPU Mat MUl Total runtime for N=2000: 0:00:00:1.9541
+GPU Mat MUl Total runtime for N=2000: 0:00:00:2.1837
+GPU Mat MUl Total runtime for N=5000: 0:00:00:4.5137
+GPU Mat MUl Total runtime for N=5000: 0:00:00:4.5448
+GPU Mat MUl Total runtime for N=5000: 0:00:00:4.5141
+GPU Mat MUl Total runtime for N=5000: 0:00:00:4.4945
+GPU Mat MUl Total runtime for N=5000: 0:00:00:4.4417
+GPU Mat MUl Total runtime for N=10000: 0:00:00:21.4370
+GPU Mat MUl Total runtime for N=10000: 0:00:00:34.1535
+GPU Mat MUl Total runtime for N=10000: 0:00:00:33.1879
+GPU Mat MUl Total runtime for N=10000: 0:00:00:33.1741
+GPU Mat MUl Total runtime for N=10000: 0:00:00:34.0487
+
+For Block Dimension = 2
+GPU Mat MUl Total runtime for N=5: 0:00:00:0.7624
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5811
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5543
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5212
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5837
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5716
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5303
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.4907
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5070
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5458
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5399
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.5928
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.5674
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.6231
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.6014
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.6734
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.8482
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.8278
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.8585
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.8794
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.7394
+GPU Mat MUl Total runtime for N=2000: 0:00:00:2.4261
+GPU Mat MUl Total runtime for N=2000: 0:00:00:2.3442
+GPU Mat MUl Total runtime for N=2000: 0:00:00:2.3869
+GPU Mat MUl Total runtime for N=2000: 0:00:00:2.3337
+GPU Mat MUl Total runtime for N=2000: 0:00:00:2.3270
+GPU Mat MUl Total runtime for N=5000: 0:00:00:7.0302
+GPU Mat MUl Total runtime for N=5000: 0:00:00:6.9566
+GPU Mat MUl Total runtime for N=5000: 0:00:00:7.0702
+GPU Mat MUl Total runtime for N=5000: 0:00:00:7.0550
+GPU Mat MUl Total runtime for N=5000: 0:00:00:7.1199
+GPU Mat MUl Total runtime for N=10000: 0:00:01:48.0403
+GPU Mat MUl Total runtime for N=10000: 0:00:01:48.2234
+GPU Mat MUl Total runtime for N=10000: 0:00:01:47.7264
+GPU Mat MUl Total runtime for N=10000: 0:00:01:47.8451
+GPU Mat MUl Total runtime for N=10000: 0:00:01:47.5975
+  
+  
+  
+ For Block Dimension = 32
+ GPU Mat MUl Total runtime for N=5: 0:00:00:0.7709
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5973
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.6011
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5496
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5345
+GPU Mat MUl Total runtime for N=100: 0:00:00:1.5778
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5863
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5483
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.4858
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5254
+GPU Mat MUl Total runtime for N=200: 0:00:00:1.5647
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.5825
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.5692
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.5141
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.5564
+GPU Mat MUl Total runtime for N=500: 0:00:00:1.5413
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.6087
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.6495
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.6092
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.6191
+GPU Mat MUl Total runtime for N=1000: 0:00:00:1.6374
+GPU Mat MUl Total runtime for N=2000: 0:00:00:1.7856
+GPU Mat MUl Total runtime for N=2000: 0:00:00:1.7514
+GPU Mat MUl Total runtime for N=2000: 0:00:00:1.7955
+GPU Mat MUl Total runtime for N=2000: 0:00:00:1.8344
+GPU Mat MUl Total runtime for N=2000: 0:00:00:1.7458
+GPU Mat MUl Total runtime for N=5000: 0:00:00:3.7745
+GPU Mat MUl Total runtime for N=5000: 0:00:00:3.7893
+GPU Mat MUl Total runtime for N=5000: 0:00:00:3.7532
+GPU Mat MUl Total runtime for N=5000: 0:00:00:3.7978
+GPU Mat MUl Total runtime for N=5000: 0:00:00:3.7097
+GPU Mat MUl Total runtime for N=10000: 0:00:00:17.6710
+GPU Mat MUl Total runtime for N=10000: 0:00:00:17.6668
+GPU Mat MUl Total runtime for N=10000: 0:00:00:17.6329
+GPU Mat MUl Total runtime for N=10000: 0:00:00:17.6375
+GPU Mat MUl Total runtime for N=10000: 0:00:00:17.6406
+
